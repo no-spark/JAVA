@@ -1,2 +1,2 @@
-# java_review
-Review from scratch
+# 温故而知新
+从零单排搞JAVA
